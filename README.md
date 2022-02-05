@@ -1,2 +1,2 @@
-# Single-molecule magnetic complexes Mn12
+# Single-molecule magnetic complexes Mn<sub>12</sub>
 
