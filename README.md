@@ -4,7 +4,7 @@ The structures used in the paper [![arXiv](https://img.shields.io/badge/ChemRxiv
 
    * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_1_1_1_1)
    * [-H (2:2)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
-   * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
+   * [-CH<sub>3</sub> (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-CH3)
    * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
    * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
    * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
