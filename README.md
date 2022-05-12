@@ -7,6 +7,6 @@ The structures used in the paper [![arXiv](https://img.shields.io/badge/ChemRxiv
    * [-CH<sub>3</sub> (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-CH3)
    * [-CHCl<sub>2</sub> (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-CHCl2)
    * [-C<sub>6</sub>H<sub>5</sub> (2:2)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-C6H5)
-   * [-H (1:1:1:1)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-H_2_2)
+   * [-C<sub>6</sub>H<sub>4</sub>F (2:2)](https://github.com/Dmitry-Skachkov/SMM-Mn12/tree/main/Mn12-C6H4F)
 
 
