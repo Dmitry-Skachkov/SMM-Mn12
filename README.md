@@ -1,7 +1,7 @@
 # Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>CR)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]   
 
 The structures used in the paper [![arXiv](https://img.shields.io/badge/ChemRxiv-m5fgw_(2022)-9cf)](https://doi.org/10.26434/chemrxiv-2022-m5fgw)   
-Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>CR)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>] with R=   
+Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>C-R)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>] with R=   
 
    * [-H (1:1:1:1)](Mn12-H_1_1_1_1)
    * [-H (2:2)](Mn12-H_2_2)
