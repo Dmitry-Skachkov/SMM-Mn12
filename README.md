@@ -1,4 +1,4 @@
-# Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>CR)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]<sup>-</sup>   
+# Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>C-R)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]<sup>-</sup>   
 
 Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>C-R)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]<sup>-</sup> with R=   
 
