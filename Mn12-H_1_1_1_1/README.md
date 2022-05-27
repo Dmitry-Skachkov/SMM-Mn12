@@ -1,4 +1,4 @@
-# SMM [Mn<sub>12</sub>-H]
+# SMM [Mn<sub>12</sub>-H]<sup>-</sup>
 
 Single-molecule magnetic complexes [Mn<sub>12</sub>-H]<sup>-</sup> in 1:1:1:1 isomeric form with an extra electron located at:
 
