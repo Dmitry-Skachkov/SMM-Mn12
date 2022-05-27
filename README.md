@@ -17,3 +17,4 @@ Dmitry Skachkov, Shuang-Long Liu, Jia Chen, George Christou, Arthur F. Hebard, X
 Dipole Switching by Intramolecular Electron Transfer in Single-Molecule Magnetic Complex [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>CR)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]   
 https://doi.org/10.26434/chemrxiv-2022-m5fgw     
 
+https://github.com/Dmitry-Skachkov/SMM-Mn12/blob/main/Mn12-F_1.jpg
