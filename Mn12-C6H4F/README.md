@@ -6,4 +6,4 @@ Single-molecule magnetic complex [Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F]<s
    atom Mn3  (#9 in paper notation)
    
 
-Mn12-F_1.jpg
+![GitHub Logo](Mn12-F_1.jpg)
