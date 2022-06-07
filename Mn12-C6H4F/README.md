@@ -3,7 +3,7 @@
 Single-molecule magnetic complex [Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F]<sup>-</sup> in 2:2 isomeric form and in -1 charge state with an extra electron located at:
 
    [atom Mn8](Mn12-C6H4F_22_atom8.xsf)  (#1 in paper notation) (0.0 meV)    
-   [atom Mn10](Mn12-C6H4F_22_atom10.xsf)  (#3 in paper notation) (+150.0 meV)
+   [atom Mn10](Mn12-C6H4F_22_atom10.xsf)  (#3 in paper notation) (+150.0 meV)     
    [atom Mn3](Mn12-C6H4F_22_atom3.xsf)  (#9 in paper notation) (-18.0 meV)
    
 
