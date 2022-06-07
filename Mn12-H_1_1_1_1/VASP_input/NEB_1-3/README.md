@@ -1,2 +1,2 @@
 
-Input files for VASP calculation Nudged Elastic Band (NEB) method to chemical reaction 1->3. 
+Input files for Nudged Elastic Band (NEB) calculation for chemical reaction 1->3. 
