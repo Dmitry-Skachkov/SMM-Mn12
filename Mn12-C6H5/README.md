@@ -10,4 +10,4 @@ Single-molecule magnetic complex [Mn<sub>12</sub>-C<sub>6</sub>H<sub>5</sub>]<su
 
 ![GitHub Logo](Mn12-C6H5_n2.jpg)   
 
-**Figure**. SMM [Mn<sub>12</sub>-C<sub>6</sub>H<sub>4</sub>F]. Mn atoms are purple balls. Oxygen and carbon atoms are at vertices of red and grey bars, hydrogen and fluorine atoms are at the open ends of white and green bars. Four water molecules are shown as blue-white sticks forming 2:2 isomeric configuration. Four carboxylate groups O<sub>2</sub>C-C<sub>6</sub>H<sub>4</sub>F in front and four at back of the molecule are removed for clarity.
+**Figure**. SMM [Mn<sub>12</sub>-C<sub>6</sub>H<sub>5</sub>]. Mn atoms are purple balls. Oxygen and carbon atoms are at vertices of red and grey bars, hydrogen atoms are at the open ends of white and green bars. Four water molecules are shown as blue-white sticks forming 2:2 isomeric configuration. Four carboxylate groups O<sub>2</sub>C-C<sub>6</sub>H<sub>5</sub> in front and four at the rear of the molecule are removed for clarity.
