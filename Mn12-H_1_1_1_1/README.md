@@ -8,4 +8,6 @@ Single-molecule magnetic complexes [Mn<sub>12</sub>-H]<sup>-</sup> in 1:1:1:1 is
    
    Folder [VASP_input](VASP_input) contains input files for energy and NEB calculations.
    
-   
+![GitHub Logo](Mn12-H_n2.jpg)   
+
+**Figure**. SMM [Mn<sub>12</sub>-H]. Mn atoms are purple balls. Oxygen and carbon atoms are at vertices of red and grey bars, hydrogen atoms are at the open ends of white bars. Four water molecules are shown as blue-white sticks forming 1:1:1:1 isomeric configuration. Four carboxylate groups O<sub>2</sub>C-H in front and four at the rear of the molecule are removed for clarity.
