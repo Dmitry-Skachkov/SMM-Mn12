@@ -10,9 +10,9 @@ Single-molecule magnetic complexes [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>C
    * [-C<sub>6</sub>H<sub>4</sub>F (2:2)](Mn12-C6H4F)
 
 If you use these structures in your research, please cite the following paper:
-
+```
 Dmitry Skachkov, Shuang-Long Liu, Jia Chen, George Christou, Arthur F. Hebard, Xiao-Guang Zhang, Samuel B. Trickey, and Hai-Ping Cheng   
 Dipole Switching by Intramolecular Electron Transfer in Single-Molecule Magnetic Complex [Mn<sub>12</sub>O<sub>12</sub>(O<sub>2</sub>CR)<sub>16</sub>(H<sub>2</sub>O)<sub>4</sub>]   
 **Journal of Physical Chemistry A**, 126, 5265 (2022) https://doi.org/10.1021/acs.jpca.2c02585      
-
+```
 
